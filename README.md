@@ -1,0 +1,2 @@
+# SCT_DataScience_Internship_2
+superstore_dashboard.py Superstore_Sales_Dashboard.xlsx README.md
